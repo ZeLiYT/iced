@@ -24,3 +24,10 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDUxLjY4LjIwNi4yMjk6ODExOA==#v2cross.co
 vmess://eyJhZGQiOiIxNzguMTI4LjIzNy42IiwiYWlkIjoiMCIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzM4OSIsInBzIjoidjJjcm9zcy5jb20iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNDYuMTkuMTY4LjE2MSIsImFpZCI6IjAiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJ2MmNyb3NzLmNvbSIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://74400921-f59f-4009-b52a-c2789b49fab6@hinet.mjt001.com:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%208
+trojan://0d352647-8e22-4410-b3b0-f736ac7bafd3@in01.trojanyyds.xyz:443/?type=tcp&security=tls&sni=in01.trojanyyds.xyz#%E5%8D%B0%E5%BA%A6-Trojan
+trojan://0d352647-8e22-4410-b3b0-f736ac7bafd3@ru01.trojanyyds.xyz:443/?type=tcp&security=tls&sni=ru01.trojanyyds.xyz#%E4%BF%84%E7%BD%97%E6%96%AF-Trojan
+trojan://0d352647-8e22-4410-b3b0-f736ac7bafd3@tw01.trojanyyds.xyz:443/?type=tcp&security=tls&sni=tw01.trojanyyds.xyz#%E5%8F%B0%E6%B9%BE-Trojan%E2%91%A0
+trojan://0d352647-8e22-4410-b3b0-f736ac7bafd3@hk03.trojanyyds.xyz:443/?type=tcp&security=tls&sni=hk03.trojanyyds.xyz#%E9%A6%99%E6%B8%AF-Trojan%E2%91%A2
+trojan://0d352647-8e22-4410-b3b0-f736ac7bafd3@sg01.trojanyyds.xyz:443/?type=tcp&security=tls&sni=sg01.trojanyyds.xyz#%E6%96%B0%E5%8A%A0%E5%9D%A1-Trojan%E2%91%A0
+trojan://0d352647-8e22-4410-b3b0-f736ac7bafd3@us01.trojanyyds.xyz:443/?type=tcp&security=tls&sni=us01.trojanyyds.xyz#%E7%BE%8E%E5%9B%BD-Trojan%E2%91%A0
+trojan://0d352647-8e22-4410-b3b0-f736ac7bafd3@my01.trojanyyds.xyz:443/?type=tcp&security=tls&sni=my01.trojanyyds.xyz#%E9%A9%AC%E6%9D%A5-Trojan%E2%91%A0
